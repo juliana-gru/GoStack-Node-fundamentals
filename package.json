@@ -30,5 +30,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "uuidv4": "^6.0.7"
-  }
+  },
+  "repository": "https://github.com/juliana-gru/GoStack-Node-fundamentals.git",
+  "author": "Juliana Grutzmann <juliana_grutzmann@hotmail.com>"
 }
